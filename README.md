@@ -18,3 +18,5 @@ you will get sample input file(logfile.txt) in src/test/resources package
 Step3. open browser and hit below URL to check data
 URL: http://localhost:8080/
  
+ ToDo:
+   1. to increae code coverage we have to write junit test for others class also.
